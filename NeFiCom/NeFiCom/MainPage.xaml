@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:NeFiCom"
              x:Class="NeFiCom.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Welcome to ESM Smart Solutions!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
